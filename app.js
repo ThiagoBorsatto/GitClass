@@ -1,2 +1,5 @@
 console.log("Hello, World!")
 console.log("My name is Thiago")
+console.log("My name is Thiago")
+console.log("My name is Thiago")
+console.log("My name is Thiago")
